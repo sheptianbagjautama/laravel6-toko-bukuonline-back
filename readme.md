@@ -15,16 +15,20 @@ Fitur :
 ### Validasi
 ![69](https://user-images.githubusercontent.com/13019337/66284399-b8ff1d00-e8f1-11e9-92dc-ddb027a76a29.png)
 
-### Data Buku
+### Data Kategori
+![70](https://user-images.githubusercontent.com/13019337/66284678-22cbf680-e8f3-11e9-955f-569393decd40.png)
+
+### Data Pengguna
 ![65](https://user-images.githubusercontent.com/13019337/66284400-b8ff1d00-e8f1-11e9-9a1e-4cbdb3921c61.png)
 
-### Data Order
+### Data Buku
 ![66](https://user-images.githubusercontent.com/13019337/66284401-b997b380-e8f1-11e9-9591-4ae1d82b3151.png)
 
-### Form Data Buku
+### Data Order
 ![67](https://user-images.githubusercontent.com/13019337/66284403-b997b380-e8f1-11e9-94cd-7d3105a11cbb.png)
 
-### Validasi
+### Form
 ![68](https://user-images.githubusercontent.com/13019337/66284404-b997b380-e8f1-11e9-9d91-f8e28c395fc2.png)
+
 
 
