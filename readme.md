@@ -7,6 +7,8 @@ Fitur :
 - Modu Buku (CRUD, Filter)
 - Modul Order (Edit, Filter)
 
+Silahkan download bagi yang ingin mempelajari laravel 6 :+1:
+
 ## SS Aplikasi
 
 ### Login
@@ -30,5 +32,8 @@ Fitur :
 ### Form
 ![68](https://user-images.githubusercontent.com/13019337/66284404-b997b380-e8f1-11e9-9d91-f8e28c395fc2.png)
 
+
+### Multi Tag
+![71](https://user-images.githubusercontent.com/13019337/66284725-658dce80-e8f3-11e9-85fd-9fd91263bb4a.png)
 
 
