@@ -12,7 +12,7 @@ Fitur :
 ### Login
 ![64](https://user-images.githubusercontent.com/13019337/66284391-b1d80f00-e8f1-11e9-8f23-d8e83c325486.png)
 
-### Data Pengguna
+### Validasi
 ![69](https://user-images.githubusercontent.com/13019337/66284399-b8ff1d00-e8f1-11e9-92dc-ddb027a76a29.png)
 
 ### Data Buku
