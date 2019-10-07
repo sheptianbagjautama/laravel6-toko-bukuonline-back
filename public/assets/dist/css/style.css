@@ -1,0 +1,44 @@
+.sidebar-dark-primary {
+    background:#b80073;
+}
+
+[class*=sidebar-dark] .brand-link {
+    color: rgba(255,255,255,.8);
+    /* border-bottom: 1px solid #4b545c; */
+    border:none;
+}
+
+[class*=sidebar-dark] .user-panel {
+    /* border-bottom: 1px solid #4f5962; */
+    border:none;
+}
+
+[class*=sidebar-dark] .brand-link {
+    color: #FFFFFF;
+    /* border-bottom: 1px solid #4b545c; */
+    border: none;
+}
+
+.sidebar-dark-primary .sidebar a {
+    color: #FFFFFF;
+}
+
+.card-header {
+    background-color: #b80073 !important;
+}
+
+.card-title{
+    color: #FFFFFF;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #e4e4e4;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    cursor: default;
+    float: left;
+    color: black !important;
+    margin-right: 5px;
+    margin-top: 5px;
+    padding: 0 5px;
+}
